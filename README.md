@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 # JAVA
+=======
+# Java
+>>>>>>> master
