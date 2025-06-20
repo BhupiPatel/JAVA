@@ -1,22 +1,13 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
->>>>>>> master
 .metadata
 SSHKey
 SSHKey.pub
 .Settings/
 bin/
 test-output/
+rough/
 .classpath
 .project
 =======
-<<<<<<< HEAD
->>>>>>> master
-=======
->>>>>>> master
 # Compiled class file
 *.class
 
@@ -41,12 +32,8 @@ test-output/
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
-<<<<<<< HEAD
-<<<<<<< HEAD
 =======
-=======
->>>>>>> master
->>>>>>> 40bad6469b599000eb0c7749c869555098008ee5
+
 
 ### Eclipse ###
 .apt_generated
@@ -72,8 +59,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-<<<<<<< HEAD
->>>>>>> master
 
 # Compiled class file
 *.class
@@ -100,4 +85,3 @@ bin/
 hs_err_pid*
 replay_pid*
 =======
->>>>>>> master
